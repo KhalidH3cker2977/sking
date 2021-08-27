@@ -1,18 +1,20 @@
 # sking
 Sking is the best cloning tools which can clone all countries Facebook accounts  
 
-apt update & upgrade
+🔗 apt update & upgrade
 
-pkg install git
+🔗 pkg install git
 
-pkg install python2
+🔗 pkg install python2
 
-pip2 install requests 
+🔗 pip2 install requests 
 
-pip2 install mechanize
+🔗 pip2 install mechanize
 
-git clone https://github.com/KhalidH3cker2977/sking.git
+🔗 git clone https://github.com/KhalidH3cker2977/sking.git
 
-cd sking
+🔗 cd sking
 
-python2 Sking.py
+🔗 python2 Sking.py
+
+No Need Password
